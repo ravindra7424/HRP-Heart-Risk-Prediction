@@ -1,19 +1,17 @@
 # HRP-Heart-Risk-Prediction
 
-Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
+In Today,s generation Many Peoples’s major concern is Health.This Project is concerned
+About Health by Taking various Peoples health aspects.The Aspects are BMI, whether they 
+Drink alcohol, whether they smoke how much Do they workout.
+In general, datasets which contain Health data can be used :
+1. Prediction of the results of the HealthCare will tell whether the person is
+Healthy Or not
+2.Prediction of These results will tell Whether the person have any serious 
+Health Issues and Whether They undergo Major operations or not.
+This dataset containing bank health  data and we can use it to tell health condition  of various
+People 
+In order to optimize healthcare data with the help of a dataset, we will have to take following steps:
+1.	Import data from datasets and perform initial high level analysis
+2.	Clean the Data
+3.	Use Machine Learning Techniques  
 
-The project involved analysis of the heart disease patient dataset with proper data processing. Then, different models were trained and and predictions are made with different algorithms KNN, Decision Tree, Random Forest,SVM,Logistic Regression etc This is the jupyter notebook code and dataset I've used for my Kaggle kernel 'Binary Classification with Sklearn and Keras'
-
-I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
-
-Machine Learning algorithms used:
-
-Logistic Regression (Scikit-learn)
-Naive Bayes (Scikit-learn)
-Support Vector Machine (Linear) (Scikit-learn)
-K-Nearest Neighbours (Scikit-learn)
-Decision Tree (Scikit-learn)
-Random Forest (Scikit-learn)
-XGBoost (Scikit-learn)
-Artificial Neural Network with 1 Hidden layer (Keras)
-Accuracy achieved: 92% (Random Forest)
